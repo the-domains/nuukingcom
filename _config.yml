@@ -1,4 +1,3 @@
-layout_spectrum: 0.8059521371033043
 typography_spectrum: 0.2734292489476502
 color:
   brandStrength: 0.02474736305885017
@@ -11,4 +10,6 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.8059521371033043
 name: Nuuking.com
+title: TECSTASY
